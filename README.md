@@ -9,5 +9,5 @@ hallantern/hallantern is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
--这个存七七八八的东西
+- 这个存七七八八的东西
 1.社会实践
